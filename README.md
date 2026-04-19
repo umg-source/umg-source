@@ -1,53 +1,69 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Umang</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Umang Gupta</h1>
+<h3 align="center">Backend Developer | Node.js | Distributed Systems</h3>
 
-<br>
-<br>
+---
+
+## 🚀 About Me
+
+- 💻 Backend Engineer with ~2.5 years of experience
+- ⚙️ Building scalable systems using **Node.js, Kafka, Redis, Docker**
+- 🧠 Experienced in **microservices architecture & async processing**
+- 📈 Focused on performance, reliability & real-world problem solving
+- 🔍 Recently worked on reducing Kafka lag & improving system throughput
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Node.js, Express.js, NestJS, Loopback
+
+**Databases**
+- MongoDB, MySQL, PostgreSQL
+
+**Distributed Systems & Tools**
+- Kafka, RabbitMQ, Redis
+- Docker, Grafana, Kibana, Prometheus
+
+**Other**
+- TypeScript, JavaScript, Python, React (basic)
+
+---
+
+## 🧩 What I’ve Built
+
+### 🔹 Streaming Platform (Microservices)
+- Built scalable backend services using Node.js & Kafka
+- Implemented **event-driven architecture** for high-throughput processing
+- Used Redis for caching & Socket.IO for real-time communication
+- Monitored system using Grafana & Kibana
+
+---
+
+### 🔹 Log Ingestor & Query Interface
+- Designed full-text search system improving query speed by **40%**
+- Integrated Presto for efficient data querying
+
+---
+
+### 🔹 Production Issue Handling
+- Diagnosed **Kafka consumer lag** in production
+- Fixed blocking logic & scaled consumers
+- Improved system latency and reliability
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-    <a href="https://github.com/umg-source/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umang's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umg-source&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://github.com/umg-source/github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umg-source&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 </p>
 
-<br>
-<be>
-## Languages and Tools:
-<p align="center"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
-## 📊 My Github Stats
-    <p align="center">
-<!-- <a href="https://github.com/umg-source/github-readme-stats"><img alt="Umang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=umg-source&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-<a href="https://github.com/umg-source/github-readme-stats"><img alt="Umang's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umg-source&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-<br/>
+---
 
-## 📫 How to reach me:
+## 📫 Connect With Me
 <p align="center">
-<a href = "https://www.linkedin.com/in/umg-gupta/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/0um_ng0"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/um._.ng/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/umg-gupta/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:umg01@hotmail.com"><img src="https://img.icons8.com/fluency/48/email.png"/></a>
 </p>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
