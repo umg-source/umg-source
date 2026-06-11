@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 **Backend**
-- Node.js, Express.js, NestJS, Loopback
+- Node.js, Express.js, NestJS, Loopback, Python
 
 **Databases**
 - MongoDB, MySQL, PostgreSQL
